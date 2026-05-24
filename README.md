@@ -1,6 +1,5 @@
 # 💫 About Me:
-my names is bisma and am currently learning no code automation tools
-
+i am currently learning no code automation tools
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bisma0ali1khan@gmail.com) 
